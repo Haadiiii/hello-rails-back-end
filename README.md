@@ -21,9 +21,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [React on rails Two App] <a name="about-project"></a>
+# 📖 [hello rails back-end] <a name="about-project"></a>
+
 
 ## 🛠 Built With <a name="built-with"></a>
+
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -62,6 +64,12 @@
 
 - [Live Demo Link](https://yourdeployedapplicationlink.com)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## **Front-end**
+
+ follow the [link](https://github.com/Haadiiii/hello-react-front-end/pull/1) to see front-end
+ 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
